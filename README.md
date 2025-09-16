@@ -30,27 +30,28 @@ The material is organized into four official Microsoft Learn paths, starting wit
 
 ## Repository Structure
 
+
+```text
 azure-ai-engineer-learning/
 │
-├── README.md # Main guide
+├── README.md                     # Main guide
 ├── 01-introduction-to-ai-azure/
-│ ├── notes.md # Key concepts and takeaways
-│ ├── exercises/ # Practice tasks
-│ └── examples/ # Illustrative code samples
+│   ├── notes.md                   # Key concepts and takeaways
+│   ├── exercises/                 # Practice tasks
+│   └── examples/                  # Illustrative code samples
 ├── 02-data-science-for-ml/
-│ ├── notes.md
-│ ├── exercises/
-│ └── examples/
+│   ├── notes.md
+│   ├── exercises/
+│   └── examples/
 ├── 03-create-ml-models/
-│ ├── notes.md
-│ ├── code/ # Jupyter notebooks and scripts
-│ └── exercises/
+│   ├── notes.md
+│   ├── code/                      # Jupyter notebooks and scripts
+│   └── exercises/
 ├── 04-knowledge-mining/
-│ ├── notes.md
-│ ├── code/
-│ └── exercises/
-└── resources.md # Extra references and links
-
+│   ├── notes.md
+│   ├── code/
+│   └── exercises/
+└── resources.md                   # Extra references and links
 
 ---
 
